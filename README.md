@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="portada.jpg" alt="Banner de Nomar Auriel" width="100%" />
+</p>
+
 # 👋 ¡Hola! Soy Nomar Auriel
 
 💻 **Ingeniero en Tecnologías de la Información y Comunicaciones** con más de 3 años de experiencia en:
@@ -36,8 +40,8 @@
 
 ## 📫 Conéctate conmigo  
 [![Sitio Web](https://img.shields.io/badge/Web-nostecht.com.mx-blue?style=flat&logo=Google-Chrome&logoColor=white)](https://nosetech.com.mx)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ing-nomarauriel)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nomarauriel.tech.com)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NomarTech&theme=merko&hide_border=true&border_radius=5.2&locale=es&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
